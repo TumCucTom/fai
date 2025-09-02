@@ -1,0 +1,12 @@
+[submodule "resource-repos/ACDriver"]
+	path = resource-repos/ACDriver
+	url = https://github.com/denfed/ACDriver.git
+[submodule "resource-repos/ACRL"]
+	path = resource-repos/ACRL
+	url = https://github.com/Jurredr/ACRL.git
+[submodule "resource-repos/assetto_corsa_gym"]
+	path = resource-repos/assetto_corsa_gym
+	url = https://github.com/dasGringuen/assetto_corsa_gym.git
+[submodule "resource-repos/AI-Assetto-Corsa"]
+	path = resource-repos/AI-Assetto-Corsa
+	url = https://github.com/abhimasand/AI-Assetto-Corsa.git
